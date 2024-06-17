@@ -31,13 +31,19 @@ To start using the A.I.F.P program, you must first install and configure the pro
 For any inquiries or assistance regarding the installation or operation of the program, you can contact the support team via:
 
 - Email: support@aifp.com
-- Phone:  ⁦+966 55 430 0622⁩ 
+- Phone:  ⁦00966-55-430-0622⁩
+- whatsapp : https://wa.me/message/NL7M7U2OAEUJP1
+- SCAN :   ![image](https://github.com/AIFPWMN/AIFPWMN/assets/173042570/92f08dcf-1349-4e51-bbd4-fcb9711b2083)
 ## دعم ومساعدة
 لأية استفسارات أو مساعدة بخصوص تثبيت أو تشغيل البرنامج، يمكنك التواصل مع فريق الدعم عبر:
 
+
 - البريد الإلكتروني: support@aifp.com
-- هاتف:   ⁦+966 55 430 0622⁩ 
- 
+- هاتف:   ⁦+966 55 430 0622⁩
+- واتساب :  https://wa.me/message/NL7M7U2OAEUJP1
+- او امسح الرمز : ![image](https://github.com/AIFPWMN/AIFPWMN/assets/173042570/92f08dcf-1349-4e51-bbd4-fcb9711b2083)
+
+
 A.I.F.P is licensed under [License Name], and can be used and distributed according to the terms of this license.
 ## ترخيص
                                                               A.I.F.P مرخص تحت [اسم الترخيص]، ويمكن استخدامه وتوزيعه وفقًا لشروط هذا الترخيص.
